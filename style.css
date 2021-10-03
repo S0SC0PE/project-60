@@ -1,0 +1,24 @@
+body { text-align:centre;
+}
+.obito{    list-style: none;
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    right: 30px;
+    font-family: 'Caramel', cursive;
+    cursor: pointer;
+}
+
+.jon{float: left;
+    color: orange;
+    font-size: 35px;
+    padding: 7px;
+
+}
+.jon:hover{
+    background-color: skyblue;
+ body{
+    margin: 0;
+    padding-top: 800px;
+     text-align: center;}
+    
